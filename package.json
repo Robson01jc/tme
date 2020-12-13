@@ -1,0 +1,23 @@
+{
+  "name": "tme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robson01jc/tme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robson01jc/tme/issues"
+  },
+  "homepage": "https://github.com/Robson01jc/tme#readme",
+  "bin": {
+    "tme": "index.js"
+  }
+}
